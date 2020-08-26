@@ -26,7 +26,7 @@ export const Container = styled.div`
     color: var(--color-black);
   }
   h2 {
-    margin-top: 4px;
+    margin: 4px 5px 0 5px;
     font-size: 12px;
     font-weight: 400;
     text-align: center;
@@ -35,7 +35,7 @@ export const Container = styled.div`
   .separator {
     width: 100%;
     border-bottom: 1px solid var(--color-separator);
-    margin: 16px 0 12px;
+    margin: 12px 0 12px;
   }
   .key-value {
     display: flex;
