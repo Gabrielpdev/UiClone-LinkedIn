@@ -1,5 +1,9 @@
 # UI Clone
 
+<h2 align="center">
+    <img alt="UiClone" title="#UiClone" src=".github/linkedIn.gif" width="100%" />
+</h2>
+
 ## 🧐 Sobre
 Clone do LinkedIn feito a partir do vídeo da [Rocketseat]:rocket:!.<br/>
 Foi usado o shimmer effect para o efeito de loading, com uma melhor experiência para o 
